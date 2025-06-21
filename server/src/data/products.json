@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1750499474580",
+    "name": "Diamond Stud Earrings",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "image": "/placeholder.svg",
+    "category": "Earrings",
+    "rating": 4.8,
+    "reviews": 1284,
+    "inStock": true
+  },
+  {
+    "id": "1750499573016",
+    "name": "Pearl Necklace Set",
+    "price": 449.99,
+    "image": "/placeholder.svg",
+    "category": "Necklaces",
+    "rating": 4.9,
+    "reviews": 2103,
+    "inStock": false
+  },
+  {
+    "id": "1750500044424",
+    "name": "Rose Gold Wedding Ring",
+    "price": 649.99,
+    "image": "https://picsum.photos/200",
+    "category": "Rings",
+    "rating": 4.7,
+    "reviews": 623,
+    "inStock": true
+  }
+]
